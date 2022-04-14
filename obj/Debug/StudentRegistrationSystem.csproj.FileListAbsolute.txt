@@ -1,0 +1,23 @@
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\SLRDbConnector.dll
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csprojAssemblyReference.cache
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form1.resources
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CopyComplete
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+C:\Users\pLoTo\source\repos\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form1.resources
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CopyComplete
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+F:\Softwares Development\C#\C# Tamplets Projects\StudentRegistrationSystem\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
